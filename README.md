@@ -101,7 +101,7 @@ FROM
     rfm_quant;
 
 
-
+```
 ## 🚀 Results & Impact
 By running this analysis, we successfully transformed raw transaction logs into a strategic asset. The marketing team can now:
 . Send "We Miss You" coupons specifically to the At Risk group.
